@@ -9,8 +9,3 @@
   * [Pools documentation](doc/Pools.md)
   * [Tokens management](doc/Tokens.md)
   * [Localisation](doc/i18n.md)
-* [Packages](packages/README.md)
-  * [eslint-config-pancake](packages/eslint-config/README.md)
-    * [CHANGELOG](packages/eslint-config/CHANGELOG.md)
-  * [MetaTrading UIkit](packages/uikit/README.md)
-    * [CHANGELOG](packages/uikit/CHANGELOG.md)
